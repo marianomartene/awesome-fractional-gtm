@@ -104,6 +104,7 @@ endorsement, just a map of what's out there.
 - [Apollo.io](https://www.apollo.io) - combined B2B contact database and sales engagement platform.
 - [Clay](https://clay.com) - the enrichment/orchestration tool that popularized the term "GTM engineer."
 - [Cognism](https://www.cognism.com) - B2B contact data with a GDPR-focused EMEA data set.
+- [Datacircle](https://datacircle.dev) - benchmarks every GTM data API and plan, with an open API at [api.datacircle.dev/v1](https://api.datacircle.dev/v1).
 - [HubSpot Breeze Intelligence](https://clearbit.com/) - formerly Clearbit; HubSpot acquired it and folded it into HubSpot as a Breeze Intelligence add-on, so it's now effectively HubSpot-only.
 - [People Data Labs](https://www.peopledatalabs.com) - person and company data infrastructure provider used inside many enrichment waterfalls.
 - [RB2B](https://www.rb2b.com) - identifies anonymous US website visitors at the person level and pushes profiles to Slack.
